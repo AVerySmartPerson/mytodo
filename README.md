@@ -1,0 +1,1 @@
+Todo list app that is based on the [Yeoman Tutorial](http://yeoman.io/codelab.html)
